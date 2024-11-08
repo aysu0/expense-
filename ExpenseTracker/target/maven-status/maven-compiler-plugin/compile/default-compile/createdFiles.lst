@@ -1,0 +1,14 @@
+service\ExpenseService.class
+controller\ExpenseController.class
+controller\UserController.class
+service\UserService.class
+model\Expense.class
+model\Budget.class
+repository\UserRepository.class
+com\example\ExpenseTracker\ExpenseTrackerApplication.class
+repository\ExpenseRepository.class
+controller\BudgetController.class
+DTO\BudgetRequest.class
+repository\BudgetRepository.class
+service\BudgetService.class
+model\User.class
